@@ -1,6 +1,9 @@
 h1{
     text-align: center;
-    
+    font-family:cursive;
+    font-style: oblique;
+    margin: 5vw 5vh;
+    padding: 10vw;
 }
 
 .create-food{
@@ -33,6 +36,7 @@ h1{
 .search-bar{
     background-color: rgb(144, 219, 238);
     display: flex;
-    justify-content:flex-start;
+    justify-content:space;
+    padding: 1vw;
 
 }
